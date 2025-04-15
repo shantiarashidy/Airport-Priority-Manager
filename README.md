@@ -16,7 +16,7 @@ To get started with the **Airport Priority Manager**, you'll need to have Python
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/airport-priority-manager.git
+    git clone https://github.com/shantiarashidy/airport-priority-manager.git
     ```
 
 2. Navigate to the project directory:
@@ -24,10 +24,6 @@ To get started with the **Airport Priority Manager**, you'll need to have Python
     cd airport-priority-manager
     ```
 
-3. Install required dependencies (if any):
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 To use the **Airport Priority Manager**:
